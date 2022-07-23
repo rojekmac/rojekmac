@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rojekmac
 - 👀 I’m interested in test automation
-- 🌱 I’m currently learning advanced cypress features as well as playwright
+- 🌱 I’m currently learning cypress as well as playwright
 - 📫 How to reach me Maciej Rojek @ linkedin
 
 <!---
